@@ -2,7 +2,7 @@
   <a href="README.md">English</a> • <strong>Bahasa Indonesia</strong>
 </p>
 
-# Analisis Sentimen Multi-Kelas Ulasan Aplikasi WeTV
+# Analisis Sentimen Ulasan Aplikasi WeTV
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.22-orange.svg)](https://tensorflow.org/)
@@ -133,16 +133,6 @@ flowchart TD
    ```python
    !pip install google-play-scraper nltk wordcloud
    ```
-
-## Struktur Direktori
-
-```text
-├── wetv-scraping.ipynb               # Notebook scraping ulasan Google Play Store
-├── wetv-sentiment-analysis.ipynb     # Notebook utama prapemrosesan, EDA, pelabelan, dan pemodelan
-├── requirements.txt                  # Daftar dependensi pustaka environment
-├── README.md                         # Dokumentasi utama (Bahasa Inggris)
-└── README.id.md                      # Dokumentasi (Bahasa Indonesia)
-```
 
 ## Lisensi
 
